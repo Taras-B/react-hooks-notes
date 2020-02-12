@@ -1,3 +1,20 @@
+Used technologies
+
+JavaScript and AJAX:
+
+    CRA
+    
+    React
+    
+    React-router-dom
+    
+    Axios
+
+    React Hooks
+
+    Firebase(Realtime Database)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
